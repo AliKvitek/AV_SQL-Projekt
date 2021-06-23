@@ -27,5 +27,5 @@ SELECT
 LEFT JOIN
 	hdp
 	ON c.country = hdp.country
-LEFT JOIN majetek on c.country = majetek.country
+LEFT JOIN majetek ON c.country = majetek.country
 ORDER BY country; 

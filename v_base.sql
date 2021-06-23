@@ -4,7 +4,7 @@ SELECT
 	cbd.`date`,
 	cbd.confirmed,
 	c.capital_city,
-	CASE WHEN WEEKDAY(`date`) in (5,6) THEN '0'
+	CASE WHEN WEEKDAY(`date`) IN (5,6) THEN '0'
 		 ELSE '1' END AS week,
 	CASE WHEN date < '2020-03-20' THEN '3'
 		 WHEN date < '2020-06-20' THEN '0'

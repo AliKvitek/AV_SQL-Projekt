@@ -1,3 +1,4 @@
+-- průměrná denní teplota (avg_temp), maximální síla větru v nárazech během dne (gust), počet hodin v daném dni, kdy byly srážky nenulové (hours)
 CREATE VIEW v_10 AS
 WITH avg_temp AS 
 (SELECT 

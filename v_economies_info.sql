@@ -1,3 +1,5 @@
+-- population_density, GDP, GINI, mortality_under5, median_age_2018
+
 CREATE VIEW v_34567 AS
 WITH hdp AS 
 	(SELECT 

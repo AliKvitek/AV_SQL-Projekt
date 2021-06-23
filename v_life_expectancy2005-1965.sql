@@ -1,4 +1,5 @@
--- 9)	rozdíl mezi očekávanou dobou dožití v roce 1965 a 2005 
+-- rozdíl mezi očekávanou dobou dožití v roce 1965 a 2005 
+
 CREATE VIEW v_9 AS
 WITH rozdil AS 
  (SELECT country,

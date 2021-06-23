@@ -1,3 +1,5 @@
+-- základní tabulka se sloupci country, date, confirmed, flag week určující víkend a pracovní den a flag season určující roční období
+
 CREATE VIEW v_base AS
 SELECT
 	cbd.country,

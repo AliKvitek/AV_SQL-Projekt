@@ -1,6 +1,6 @@
 -- procentní podíl příslušníků na celkovém počtu obyvatel 
 
-CREATE VIEW v_8 AS
+CREATE VIEW v_percentage_of_religion AS
 SELECT r.country,
 	   r.religion,
 	   r.population,

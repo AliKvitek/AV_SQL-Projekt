@@ -1,6 +1,6 @@
 -- rozdíl mezi očekávanou dobou dožití v roce 1965 a 2005 
 
-CREATE VIEW v_9 AS
+CREATE VIEW v_life_expectancy2005-1965 AS
 WITH rozdil AS 
  (SELECT country,
 		life_expectancy as life_expectancy_1965

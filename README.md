@@ -13,9 +13,3 @@ v_weather_modified ... hodnoty z úkolů 10-12: průměrná denní teplota, poč
 Výsledná finální tabulka t_alena_vitkova_projekt_SQL_final
 
 Částečná tabulka t_alena_vitkova_projekt_SQL_part …  pro Holandsko s datumy 2020-01-22 – 2020-04-01
-
-
-Ještě bych dodala pár informací o sobě :-) S databázemi nemám absolutně žádné zušenosti a času jsem na studium měla bohužel méně než jsem chtěla.
-Takže myslím, že jsem ukázala spíš základy a nic složitého. Vůbec se divím, že jsem projekt dokončila :-D  
-Víceměné mě to ale baví a budu se studiu věnovat snad i dále.
-Moc děkuji za Tvé hodiny, moc dobře jsi vše vysvětloval, dobře si se poslouchal a takového učitele bych si přála na všechny předměty :-)
